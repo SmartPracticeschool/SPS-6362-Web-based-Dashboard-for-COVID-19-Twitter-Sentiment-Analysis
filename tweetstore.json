@@ -1,0 +1,1 @@
+[{"id":"30e93a21.e63e06","type":"cloudant out","z":"553bea00.5f5678","name":"StoreTweets","cloudant":"","database":"tweetdatabase","service":"node-red-sentiment-a-cloudant-1602494953950-83383","payonly":false,"operation":"insert","x":690,"y":480,"wires":[]}]
